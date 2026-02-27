@@ -191,11 +191,11 @@ function ProductContent() {
                 {product.colors.map(color => {
                   const colorClasses: { [key: string]: string } = {
                      'Rose': 'bg-pink-400 border-pink-500',
-  'Beige': 'bg-[#f5f5dc] border-[#e6e0c8]',
-  'Vert': 'bg-green-400 border-green-500',
-  'Bleu': 'bg-blue-400 border-blue-500',
-  'Blanc': 'bg-white border-gray-200',
-  'Gris': 'bg-gray-400 border-gray-500',
+  'beige': 'bg-[#f5f5dc] border-[#e6e0c8]',
+  'vert': 'bg-green-400 border-green-500',
+  'bleu': 'bg-blue-400 border-blue-500',
+  'blanc': 'bg-white border-gray-200',
+  'gris': 'bg-gray-400 border-gray-500',
                   }
                   const classes = colorClasses[color] || 'bg-gray-400 border-gray-500'
 
