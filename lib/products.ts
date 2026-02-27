@@ -157,7 +157,6 @@ export const products: Product[] = [
       image1: '/images/details/product-7-detail-1.jpg',
       image2: '/images/details/product-7-detail-2.jpg',
     },
-  },
 
   },
 ]
