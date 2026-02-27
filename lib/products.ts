@@ -105,7 +105,7 @@ export const products: Product[] = [
     price: 199.99,
     image: 'silk-luxury',
     collection: 'premium',
-    colors: ['rose', 'bleu'],
+    colors: ['Rose', 'bleu'],
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     rating: 4.9,
     reviews: 234,
