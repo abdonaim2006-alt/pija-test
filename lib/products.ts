@@ -158,23 +158,7 @@ export const products: Product[] = [
       image2: '/images/details/product-7-detail-2.jpg',
     },
   },
-  {
-    id: '8',
-    name: 'Ensemble Pyjama',
-    price: 99.99,
-    image: 'microfiber-soft',
-    collection: 'confort',
-    colors: ['Rose', 'beige'],
-    sizes: ['S', 'M', 'L', 'XL', 'XXL'],
-    rating: 4.7,
-    reviews: 521,
-    description: 'Pyjama Femme , Automne-Printemps, hiver',
-    features: ['Ultra doux', 'Sèche vite', 'Facile d\'entretien', 'Durable'],
-    inStock: true,
-    details: {
-      image1: '/images/details/product-8-detail-1.jpg',
-      image2: '/images/details/product-8-detail-2.jpg',
-    },
+
   },
 ]
 
